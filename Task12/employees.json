@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "667a8f624c5f273bcb4dd570"
+  },
+  "employeeId": "2",
+  "name": "Sajith",
+  "email": "Saji23@gmail.com",
+  "location": "Chennai",
+  "_class": "com.example.employeeapp.model.Employee"
+},{
+  "_id": {
+    "$oid": "667a8f874c5f273bcb4dd571"
+  },
+  "employeeId": "3",
+  "name": "sai",
+  "email": "Sai@gmail.com",
+  "location": "Chennai",
+  "_class": "com.example.employeeapp.model.Employee"
+},{
+  "_id": {
+    "$oid": "667a93ef5081521b4d5dc954"
+  },
+  "employeeId": "1",
+  "name": "Preethika P",
+  "email": "preethika1228@gmail.com",
+  "location": "Tiruppur",
+  "_class": "com.example.employeeapp.model.Employee"
+},{
+  "_id": {
+    "$oid": "667a98d5f2149d52fd9721ba"
+  },
+  "employeeId": "4",
+  "name": "Arun deepak",
+  "email": "Arun@gmail.com",
+  "location": "Madurai",
+  "_class": "com.example.employeeapp.model.Employee"
+},{
+  "_id": {
+    "$oid": "667a9a17f6324f2f65d5d5f9"
+  },
+  "employeeId": "5",
+  "name": "Ragul",
+  "email": "ragulkiler19@gmail.com",
+  "location": "Coimbatore",
+  "_class": "com.example.employeeapp.model.Employee"
+}]
